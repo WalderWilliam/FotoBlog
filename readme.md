@@ -12,7 +12,7 @@ Um Blog de imagens para você se inspirar.
 <br>
 
 <p align="center">
-  <img alt="projeto" src="./images/preview.png" width="100%">
+  <img alt="projeto" src="./assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
